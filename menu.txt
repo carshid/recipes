@@ -4,5 +4,4 @@ Masala Dosa
 Burger
 Pizza Meloni
 Tomato Soup
-Idli
-
+Idli Fry
